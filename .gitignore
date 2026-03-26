@@ -1,0 +1,15 @@
+# Arquivos compilados
+*.class
+*.log
+*.ctxt
+
+# Pastas de IDEs (IntelliJ, Eclipse, VS Code)
+.idea/
+.settings/
+.classpath
+.project
+.vscode/
+
+# Pastas de build (se usar Maven ou Gradle)
+target/
+build/
